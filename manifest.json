@@ -1,0 +1,35 @@
+{
+    "name": "symrep",
+    "short_name": "symrep",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "iconsIcon-192.png",
+            "sizes": "192x192",
+            "type": "imagepng"
+        },
+        {
+            "src": "iconsIcon-512.png",
+            "sizes": "512x512",
+            "type": "imagepng"
+        },
+        {
+            "src": "iconsIcon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "imagepng",
+            "purpose": "maskable"
+        },
+        {
+            "src": "iconsIcon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "imagepng",
+            "purpose": "maskable"
+        }
+    ]
+}
